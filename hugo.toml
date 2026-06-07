@@ -33,8 +33,8 @@ defaultContentLanguageInSubdir = true
 
 
   # Custom favicon (optional)
-  faviconIco = "favicon.ico"
-  faviconPng = "favicon.png"
+  #faviconIco = "favicon.ico"
+  #faviconPng = "favicon.png"
 
 
 # languages
@@ -87,6 +87,10 @@ defaultContentLanguageInSubdir = true
       name = "Права и лиценз - © CC BY 4.0"
       url = "https://creativecommons.org/licenses/by/4.0/legalcode"
       weight = 10
+	  
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 ###
 #
