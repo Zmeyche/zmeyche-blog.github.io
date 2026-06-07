@@ -1,0 +1,92 @@
+baseURL = 'http://zmeyche.com/'
+languageCode = 'en-us'
+title = 'zmeyche.com'
+theme = "hugo-primer-blog"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[params]
+  sidebar = false
+  recentPostsCount = 5
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+  showReadingTime = true
+  showAuthor = true
+  showShareButtons = true
+  primaryColor = "#DA025D"  # Purple
+  
+ # Sidebar modules - order determines display order
+  # Available: recentPosts, tags, categories, archive, links (+ custom partials)
+  [[params.sidebarModules]]
+    partial = "recentPosts"
+
+  [[params.sidebarModules]]
+    partial = "tags"
+
+  [[params.sidebarModules]]
+    partial = "archive"
+
+# [params.social]
+# bluesky = "zmeyche.com"
+# github = "zmeyche"
+
+
+  # Custom favicon (optional)
+  faviconIco = "favicon.ico"
+  faviconPng = "favicon.png"
+
+
+# languages
+[languages]
+  [languages.en]
+    languageName = "English"	
+    contentDir = "content"
+    weight = 1
+    [[languages.en.menus.main]]
+      name = 'Home'
+      pageRef = '/'
+      weight = 10
+    [[languages.en.menus.main]]
+      name = 'Posts'
+      pageRef = '/posts'
+      weight = 20
+#    [[languages.en.menus.main]]
+#      name = 'Recipes'
+#      pageRef = '/categories/recipes'
+#      weight = 30
+#    [[languages.en.menus.main]]
+#      name = 'Other blogs'
+#      pageRef = '/other-blogs'
+#      weight = 40
+    [[languages.en.menus.footer]]
+      name = "License - © CC BY 4.0"
+      url = "https://creativecommons.org/licenses/by/4.0/legalcode"
+      weight = 10
+  [languages.bg]
+	languageName = "Български"
+	contentDir = "content"
+	weight = 2
+    [[languages.bg.menus.main]]
+      name = 'Начало'
+      pageRef = '/'
+      weight = 10
+    [[languages.bg.menus.main]]
+      name = 'Публикации'
+      pageRef = '/posts'
+      weight = 20
+#    [[languages.bg.menus.main]]
+#      name = 'Рецепти'
+#      pageRef = '/categories/recipes'
+#      weight = 30
+#    [[languages.bg.menus.main]]
+#      name = 'Други блогове'
+#      pageRef = '/other-blogs'
+#      weight = 40
+    [[languages.bg.menus.footer]]
+      name = "Права и лиценз - © CC BY 4.0"
+      url = "https://creativecommons.org/licenses/by/4.0/legalcode"
+      weight = 10
+
+###
+#
