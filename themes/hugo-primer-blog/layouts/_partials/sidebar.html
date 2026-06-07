@@ -1,9 +1,0 @@
-{{- if site.Params.sidebar -}}
-<aside>
-  {{- range site.Params.sidebarModules -}}
-    {{- if .partial -}}
-      {{- partial (printf "sidebar/%s.html" .partial) $ -}}
-    {{- end -}}
-  {{- end -}}
-</aside>
-{{- end -}}
