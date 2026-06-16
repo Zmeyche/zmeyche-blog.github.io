@@ -1,0 +1,54 @@
+# Navigation
+mainNavigation: "основна навигация"
+footerNavigation: "дънна навигация"
+selectLanguage: "Изберете език"
+
+# Theme
+toggleTheme: "изберете тема"
+themeLight: "светла тема"
+themeDark: "тъмна тема"
+themeAuto: "тема на браузъра"
+
+# Content
+latestPosts: "последни публикации"
+recentPosts: "скорощни публикации"
+relatedPosts: "свързани публикации"
+noPosts: "няма сакорощни публикации"
+
+# Taxonomy
+tags: "етикети"
+categories: "категории"
+archive: "архив"
+links: "връзки"
+
+# Reading
+minRead: "минути за четене"
+
+# Share
+share: "сподели"
+
+# Pagination
+pagination: "прелистване"
+previous: "назад"
+next: "напред"
+previousPage: "предишна страница"
+nextPage: "следваща страница"
+page: "страница"
+
+# 404
+pageNotFound: "търсената страница не съществува"
+backToHome: "обратно към заглавната страница"
+
+# Sidebar Custom Modules
+aboutMe: "за мен"
+authorRole: "еклектика от интереси"
+authorBio: "блог за всичко, нищо и каквото се намери помежду."
+followMe: "последвайте ме"
+
+# Sidebar
+showMore: "покажи още"
+showLess: "покажи по-малко"
+viewAll: "виж всичко"
+
+# Footer
+poweredBy: "задвижван от"
