@@ -1,9 +1,9 @@
 ﻿+++
-title 			= "Неколедено, но изолационно издание на годишния мейл 2020"
-slug 			= "not-much-of-an-xmas-card-isolation-edition-2020"
+title 			= 'Неколедено, но изолационно издание на годишния мейл 2020'
+slug 			= 'not-much-of-an-xmas-card-isolation-edition-2020'
 translationkey	= 'not-much-of-an-xmas-card-isolation-edition-2020'
 author			= 'Змей'
-date 			= "2021-11-27T09:35:09+02:00"
+date 			= '2021-11-27T09:35:09+02:00'
 tags			= ['yearly wishes', 'softness']
 categories		= ['softness']
 description		= ''

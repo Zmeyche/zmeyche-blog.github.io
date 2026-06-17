@@ -1,5 +1,5 @@
 ﻿+++
-draft 			= true
+draft 			= false
 title			= 'Съвсем не толкова грозна празнична картичка™ – издание 2020'
 slug			= 'not-much-of-an-xmas-card-2020'
 translationkey	= 'not-much-of-an-xmas-card-2020'

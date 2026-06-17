@@ -1,8 +1,8 @@
 ﻿+++
-title 			= "Съвсем не толкова грозна празнична картичка™ – издание 2019"
+title 			= 'Съвсем не толкова грозна празнична картичка™ – издание 2019'
 slug			= 'not-much-of-an-xmas-card-2019'
 translationkey	= 'not-much-of-an-xmas-card-2019'
-author 			= "Змей"
+author 			= 'Змей'
 date			= '2020-11-27T10:33:46+02:00'
 tags			= ['yearly wishes', 'softness']
 categories		= ['softness']
