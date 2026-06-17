@@ -11,8 +11,6 @@ description		= ''
 --image			= 'Merry-Whatever-22.png'
 +++
 
---![img alt text](/images/Merry-Whatever-22.png)
-
 Здравей,
 
 Съвсем не зная как мина още една година и откъде да започна с пожеланията си за предстоящата.
@@ -49,4 +47,4 @@ description		= ''
 
 Осло, 25/12/2022
 
-Предните издания можеш да намериш тук: [2021](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2021/), [2020](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2020/), [2019](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2018/).
+Предните издания можеш да намериш тук: [2021](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2021/), [2020](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2020/), [2019](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2018/).

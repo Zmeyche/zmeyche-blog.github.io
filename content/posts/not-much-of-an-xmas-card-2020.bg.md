@@ -11,8 +11,6 @@ description		= ''
 --image			= 'Merry-Whatever-20.png'
 +++
 
---![img alt text](/images/Merry-Whatever-20.png)
-
 
 Здравей.
 
@@ -21,7 +19,7 @@ description		= ''
 Тази година май не протече както ни се искаше, а?
 
 Не знам за теб, но при мен се натрупаха умора, разсеяности и тревожности.
-И малко повече мълчание, отколкото бих си пожелала (ако ще и участието ми в подкаст [http://zmeyche.com/thinking/oh-yes-safe-sane-consensual/] да противоречи на тези думи).
+И малко повече мълчание, отколкото бих си пожелала (ако ще и участието ми в [подкаст](http://zmeyche.com/thinking/oh-yes-safe-sane-consensual/) да противоречи на тези думи).
 
 А в дните, в които не ми е останала нежност за раздаване, се надявам поне да не съм причината за повече тревоги у другиго.
 
@@ -54,4 +52,4 @@ description		= ''
 
 София, 25/12/2020
 
-Предните издания можеш да намериш тук: 2020-в-изолация [http://zmeyche.com/en/posts/not-much-of-an-xmas-card-isolation-edition-2020], [2019](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2018/).
+Предните издания можеш да намериш тук: [2020-в-изолация](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-isolation-edition-2020), [2019](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2018/).

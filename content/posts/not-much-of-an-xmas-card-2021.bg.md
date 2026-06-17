@@ -48,4 +48,4 @@ description	= ''
 
 София, 25/12/2021
 
-The previous iterations you can find here: [2020](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2020/), [2019](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2018/).
+The previous iterations you can find here: [2020](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2020/), [2019](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2018/).

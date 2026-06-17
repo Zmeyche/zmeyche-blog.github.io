@@ -10,7 +10,6 @@ description		= ''
 --image			= 'Merry-Whatever-19.png'
 +++
 
---![img alt text](/images/Merry-Whatever-19.png)
 
 Здравей,
 
@@ -45,4 +44,4 @@ description		= ''
 
 София, 25/12/2019
 
-Предното издание можеш да намериш тук: 2018 [http://zmeyche.com/opinions/лекове-за-душата/not-much-of-an-xmas-card-2018].
+Предното издание можеш да намериш тук: [2018](http://zmeyche.com/opinions/лекове-за-душата/not-much-of-an-xmas-card-2018).
