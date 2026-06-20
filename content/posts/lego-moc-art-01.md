@@ -1,12 +1,13 @@
 +++
 title		= 'Lego Moc Art 01'
+slug 		= 'lego-moc-art-01'
 author		= 'Змей'
 date		= '2026-06-20T18:15:58+02:00'
 draft		= false
 tags		= ['LEGO', 'LEGO MOC', 'art', 'hobbies']
---categories	= ['']
+categories	= ['hobbies']
 description	= ''
-image		= ''
+--image		= ''
 +++
 
 ![img alt text](/images/lego-moc-art-01-01.jpg)
