@@ -88,5 +88,9 @@ defaultContentLanguageInSubdir = true
       url = "https://creativecommons.org/licenses/by/4.0/legalcode"
       weight = 10
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+	
 ###
 #
