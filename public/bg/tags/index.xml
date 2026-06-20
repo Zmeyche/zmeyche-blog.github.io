@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on zmeyche.com</title>
-    <link>http://localhost:1313/bg/tags/</link>
+    <link>http://zmeyche.com/bg/tags/</link>
     <description>Recent content in Tags on zmeyche.com</description>
     <generator>Hugo</generator>
     <language>bg</language>
     <lastBuildDate>Thu, 27 Nov 2025 22:04:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/bg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://zmeyche.com/bg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Softness</title>
-      <link>http://localhost:1313/bg/tags/softness/</link>
+      <link>http://zmeyche.com/bg/tags/softness/</link>
       <pubDate>Thu, 27 Nov 2025 22:04:33 +0200</pubDate>
-      <guid>http://localhost:1313/bg/tags/softness/</guid>
+      <guid>http://zmeyche.com/bg/tags/softness/</guid>
       <description></description>
     </item>
     <item>
       <title>Yearly Wishes</title>
-      <link>http://localhost:1313/bg/tags/yearly-wishes/</link>
+      <link>http://zmeyche.com/bg/tags/yearly-wishes/</link>
       <pubDate>Thu, 27 Nov 2025 22:04:33 +0200</pubDate>
-      <guid>http://localhost:1313/bg/tags/yearly-wishes/</guid>
+      <guid>http://zmeyche.com/bg/tags/yearly-wishes/</guid>
       <description></description>
     </item>
   </channel>
