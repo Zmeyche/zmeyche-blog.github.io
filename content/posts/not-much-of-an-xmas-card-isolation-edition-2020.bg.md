@@ -44,4 +44,4 @@ description		= ''
 
 София, 28/03/2020
 
-Предните издания можете са намерите тук: [2019](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/en/posts/not-much-of-an-xmas-card-2018/).
+Предните издания можете са намерите тук: [2019](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2019/), [2018](http://zmeyche.com/bg/posts/not-much-of-an-xmas-card-2018/).
