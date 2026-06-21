@@ -15,7 +15,12 @@ defaultContentLanguageInSubdir = true
   showAuthor = true
   showShareButtons = true
   primaryColor = "#DA025D"  # Purple
-  
+ 
+# [markup]
+#  defaultMarkdownHandler = 'blackFriday'
+#  [markup.blackFriday]
+#    hrefTargetBlank = true
+	
  # Sidebar modules - order determines display order
   # Available: recentPosts, tags, categories, archive, links (+ custom partials)
   [[params.sidebarModules]]
@@ -33,8 +38,8 @@ defaultContentLanguageInSubdir = true
 
 
   # Custom favicon (optional)
-  faviconIco = "favicon.ico"
-  faviconPng = "favicon.png"
+  #faviconIco = "favicon.ico"
+  #faviconPng = "favicon.png"
 
 
 # languages

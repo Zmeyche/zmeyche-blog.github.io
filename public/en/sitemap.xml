@@ -20,6 +20,16 @@
   </url><url>
     <loc>http://localhost:1313/en/categories/hobbies/</loc>
     <lastmod>2026-06-20T18:15:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://localhost:1313/bg/categories/hobbies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/hobbies/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/hobbies/</loc>
     <lastmod>2026-06-20T18:15:58+02:00</lastmod>
