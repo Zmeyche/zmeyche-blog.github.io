@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Recipes on zmeyche.com</title>
-    <link>http://localhost:1313/bg/categories/recipes/</link>
-    <description>Recent content in Recipes on zmeyche.com</description>
-    <generator>Hugo</generator>
-    <language>bg</language>
-    <lastBuildDate>Thu, 07 Aug 2025 21:28:17 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/bg/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Пай/чета с лайм</title>
-      <link>http://localhost:1313/bg/posts/mini-lime-pies/</link>
-      <pubDate>Thu, 07 Aug 2025 21:28:17 +0300</pubDate>
-      <guid>http://localhost:1313/bg/posts/mini-lime-pies/</guid>
-      <description>&lt;p&gt;Най-хубавото на тоя пай е, че е ужасно лесен за правене:&lt;/p&gt;&#xA;&lt;h3 id=&#34;пълнеж---съставки-и-инструкции&#34;&gt;пълнеж - съставки и инструкции&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 4 жълтъка (белтъците аз употребявам за шоколадов мус)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 7-8г кора от лайм (3 лайма идват баш-тамън)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 1 консерва кондензирано мляко (~400ml)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 140мл сок от лайм&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(последният път сложих и кората от един портокал и пасна добре)&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;бъркаме жълтъците и кората от лайм заедно за минута-две (кората да си пусне маслата в мазнината на жълтъците)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Тирамису</title>
-      <link>http://localhost:1313/bg/posts/velizara/</link>
-      <pubDate>Sat, 06 Mar 2021 22:05:37 +0200</pubDate>
-      <guid>http://localhost:1313/bg/posts/velizara/</guid>
-      <description>&lt;p&gt;Велизара, тая рецепта я публикувам само и единствено и специално за теб, за да не се налага за пореден път да ти я разказвам и за да не ми се налага да я пиша на T9 клавиатура. Ако не сте Велизара, също можете да си направите това чудесно тирамису, и моля, също като Велизара, ползвайте тоя линк, а не ме питайте отново за рецептата&lt;/p&gt;&#xA;&lt;h4 id=&#34;продукти-за-тирамису-в-тава-с--размери-25х35см&#34;&gt;Продукти за тирамису в тава с ~ размери 25х35см:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;6 яйца – 6 белтъка и 3 жълтъка&lt;/strong&gt;&#xA;&lt;strong&gt;0,5 кг маскарпоне&lt;/strong&gt;&#xA;&lt;strong&gt;0,5 чаша захар (100-120г) – бяла, кафява, смес и въобще на вкус (аз бих препоръчала кафява)&lt;/strong&gt;&#xA;**&#xA;**пакет бишкоти или пък направете бишкоти **&#xA;&lt;strong&gt;2 чаши прясно сварено кафе&lt;/strong&gt;&#xA;&lt;strong&gt;1-2-3-5 лъжици амарето (или десертно вино/ликьор/йегермайстер на вкус)&lt;/strong&gt;&#xA;&lt;strong&gt;(неподсладено) какао за поръсване&lt;/strong&gt;&#xA;Процедура:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on zmeyche.com</title><link>https://zmeyche.com/bg/categories/recipes/</link><description>Recent content in Recipes on zmeyche.com</description><generator>Hugo</generator><language>bg</language><lastBuildDate>Tue, 14 Dec 2021 22:59:22 +0200</lastBuildDate><atom:link href="https://zmeyche.com/bg/categories/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Бърза рецепта за розова паста</title><link>https://zmeyche.com/bg/posts/any-day-is-a-good-pink-pasta-day/</link><pubDate>Tue, 14 Dec 2021 22:59:22 +0200</pubDate><guid>https://zmeyche.com/bg/posts/any-day-is-a-good-pink-pasta-day/</guid><description>&lt;h1 id="бърза-рецепта-за-розова-паста"&gt;Бърза рецепта за розова паста&lt;/h1&gt;
+&lt;p&gt;Всъщност тази публикация е чисто и откровено извинение да си публикувам красивата снимка на розова паста, както и оправдание пред мен самата за това, че все още плащам хостинг на този блог
+Ако все пак имате нужда от рецепта за ~5 порции:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;- брашно (от семолина, ако ви се намира) ~ 250г | 2 кафени чаши
+- 4 жълтъка (белтъците употребих за шоколадов мус)
+- зехтин – 2 чаени лъжици |  10-15 мл
+- сол – 1 чаена лъжичка |  3-4 грама
+- вода – 3-4 супени лъжици | ~50 мл (добавя се постепенно)
+- сок от червено цвекло – 1 супена лъжица | на цвят или боя за храна на вкус&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Смесвате всичко в дълбока купа и месите до гладкост, добавяйки полека вода към сравнително сухата смес
+Оставяте тестото да си почине известно време – 5-10 мин или като мен половин час докато забравите, че всъщност сте започнали да правите паста
+Като си спомните, че имате да правите паста или някой гладен дойде да ви пита кога ще е готова храната, разделяте тестото на части – 6 или 8 (примерно) и вадите машината за паста. Ако нямате машина за паста, вадите точилката и започвате бавно и постепенно да мразите факта, че скоро не сте тренирали който и да е мускул в тялото си докато разточвате тестото тънко на вкус
+Аз лично ползвам царевично нишесте, за да не ми слепва пастата и да не залепва по машината, но можете да ползвате и царевично или обикновено брашно. Ако ползвате машина за тесто за сефте, започнете от по-голямата дебелина и постепенно я намалявайте до достигане на желаната дебелина
+Следва (краткотрайно в нашия случай) сушене и след това варене и ядене на пастата
+Да ви е вкусно&lt;/p&gt;</description></item></channel></rss>
